@@ -1,4 +1,4 @@
-# [React Native Elements](https://github.com/react-native-community/react-native-elements) - Ignite Plugin
+# [React Native Elements](https://github.com/react-native-community/react-native-elements) - [Ignite Plugin](https://github.com/infinitered/ignite)
 
 ## To get started
 
