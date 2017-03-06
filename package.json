@@ -1,8 +1,6 @@
 {
   "name": "ignite-elements",
+  "description": "Adds react-native-elements support to Ignite.",
   "version": "0.2.0",
-  "devEngines": {
-    "node": ">=7.x",
-    "npm": ">=4.x"
-  }
+  "repository": "dabit3/ignite-elements"
 }
